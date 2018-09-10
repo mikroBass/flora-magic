@@ -11,7 +11,8 @@
 //
 // SetPix() and SetLed() are totally customizable and not really interesting at this stage
 //
-// This code is in CC0 1.0 Universal
+// This code is GNU GPL
+//
 // François Jarriges 2015
 
 #include <Wire.h>
