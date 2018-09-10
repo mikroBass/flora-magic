@@ -7,7 +7,7 @@
 // The idea is to stich this hardware to a beatiful glove (it could be an other cloth)
 // and produce subtile led effets according to the movements
 //
-// This is a raw base to be used by future e-wearing projects
+// This is raw material to be used by future e-wearing projects
 //
 // SetPix() and SetLed() are totally customizable and not really interesting at this stage
 //
